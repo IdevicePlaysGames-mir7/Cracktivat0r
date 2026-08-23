@@ -1,4 +1,4 @@
-# Cracktivasi0n
+# Cracktivat0r
 A utility for deleting setup.app from all types of iDevices (32bit or 64bit) running iOS 7.0 to iOS 10.2.1 to bypass the iCloud activation lock screen.
 
 **Requirements :** A mac that has xcode tools installed with homebrew missing package manager installed too. And **Legacy iOS Kit** by _LukeZGD_.
